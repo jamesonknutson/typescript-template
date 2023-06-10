@@ -1,10 +1,10 @@
 {
   "extends": [
-    "./node_modules/@jamesonknutson/dotfiles/tsconfig.json"
+    "@jamesonknutson/tsconfig"
   ],
   "compilerOptions": {
-    "rootDir": "src/",
-    "outDir": "dist"
+    "outDir": "dist",
+    "sourceRoot": "src/"
   },
   "exclude": [
     "node_modules",

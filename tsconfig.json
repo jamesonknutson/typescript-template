@@ -1,7 +1,5 @@
 {
-  "extends": [
-    "@jamesonknutson/tsconfig"
-  ],
+  "extends": "@jamesonknutson/tsconfig",
   "compilerOptions": {
     "outDir": "dist",
     "sourceRoot": "src/"

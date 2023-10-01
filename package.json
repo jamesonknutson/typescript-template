@@ -28,6 +28,8 @@
     "prettier": "^2.8.8",
     "prettier-plugin-jsdoc": "^0.4.2",
     "regenerator-runtime": "^0.14.0",
+    "ts-node": "^10.9.1",
+    "tsx": "^3.13.0",
     "type-fest": "^4.3.3",
     "typescript": "^5.2.2"
   }

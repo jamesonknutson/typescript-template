@@ -1,7 +1,6 @@
 {
   "name": "typescript-template",
-  "version": "1.0.1",
-  "description": "Template Repository for new TypeScript Projects",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "types": "src/index.ts",
   "type": "commonjs",
@@ -16,6 +15,11 @@
   "keywords": [],
   "author": "jamesonknutson",
   "license": "ISC",
+  "engines": {
+    "npm": "^9.5.0",
+    "pnpm": "please-use-npm",
+    "yarn": "please-use-npm"
+  },
   "devDependencies": {
     "@jamesonknutson/eslint-config": "^1.0.3",
     "@jamesonknutson/tsconfig": "^1.0.3",
